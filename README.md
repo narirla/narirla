@@ -8,6 +8,13 @@
 
 ---
 
+![Data Analyst](https://img.shields.io/badge/Role-Data%20Analyst-blue)
+![Python](https://img.shields.io/badge/Python-Expert-yellow)
+![SQL](https://img.shields.io/badge/SQL-Advanced-orange)
+![Status](https://img.shields.io/badge/Portfolio-Active-brightgreen)
+
+---
+
 ## 📊 Tech Stack
 
 - **Language** : Python, SQL, Java  
