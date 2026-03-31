@@ -46,7 +46,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=narirla&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=narirla&show_icons=true&theme=tokyonight)
 
 ---
 
