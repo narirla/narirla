@@ -89,5 +89,5 @@
 
 ## 📫 Contact
 
-- Email : (여기에 이메일)
+- Email : knri0320@gmail.com
 - GitHub : https://github.com/narirla
