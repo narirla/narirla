@@ -38,6 +38,12 @@
 - 일자리, 인프라 등 지역 특성이 인구 이동에 영향  
 - 데이터 기반 정책 방향 도출 가능성 확인
 
+🛠 **Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+
 ---
 
 ### 🔹 녹조 발생 예측 모델 (데이터 분석)
@@ -50,6 +56,11 @@
 - 녹조 발생은 즉시 반영되지 않고 일정 시차 후 영향을 받는 패턴 확인  
 - 환경 변수 조합을 통해 녹조 위험도 예측 가능성 도출  
 
+🛠 **Tech Stack**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
 ---
 
 ### 🔹 여행 플랫폼 MO:SI (웹 개발)
@@ -61,6 +72,13 @@
 - 사용자 역할 기반 서비스 구조 설계 및 구현  
 - 실제 서비스 흐름을 고려한 기능 통합 경험 확보  
 
+🛠 **Tech Stack**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ---
 
 
