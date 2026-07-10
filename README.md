@@ -1,71 +1,104 @@
-## 👋 안녕하세요, 데이터 분석 및 웹 개발 프로젝트를 수행하며 과정을 기록하는 김나리입니다.
+<h1 align="center">Nari Kim</h1>
 
-데이터 분석 및 웹 개발 프로젝트를 수행하며  
-각 프로젝트의 작업 내용을 정리하고 기록합니다.
+<p align="center">
+  Data Analyst • Backend Developer
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
 ---
 
-## 📊 Tech Stack
+## 👋 About Me
 
-### 🖥 Language
+안녕하세요.
+
+데이터 분석과 웹 개발을 중심으로 프로젝트를 수행하며,  
+기획부터 구현까지의 과정을 기록하고 성장하는 개발자입니다.
+
+이 GitHub는 데이터 분석 프로젝트와 웹 서비스 개발 프로젝트를 정리하는 공간입니다.
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 Data Analysis
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-### 📈 Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+
+### ⚙ Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### 🗄 Database
+
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ---
 
-## 📁 Projects
+# 📌 Featured Projects
 
-### 🔹 청년 인구 유출 분석
-> KOSIS 공공데이터 기반 지역별 청년 인구 이동 패턴 분석
+## 📊 청년 인구 유출 분석
 
-🛠 **Tech Stack**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
+>KOSIS 공공데이터를 활용하여 지역별 청년 인구 이동 패턴을 분석한 프로젝트
 
-🔗 [프로젝트 README 보기](https://github.com/narirla/AC4D)
+**Tech Stack**
 
----
+`Python` `Pandas` `Tableau`
 
-### 🔹 녹조 발생 예측 모델
-> 수온 및 유량 데이터를 기반으로 녹조 발생 예측
-
-🛠 **Tech Stack**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau)
-
-🔗 [프로젝트 README 보기](https://github.com/narirla/water_project)
+🔗 https://github.com/narirla/AC4D
 
 ---
 
-### 🔹 여행 플랫폼 MO:SI
-> 개인 간 여행 상품 거래 플랫폼 (웹 서비스)
+## 🌿 녹조 발생 예측 모델
 
-🛠 **Tech Stack**  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+>수온 및 유량 데이터를 기반으로 머신러닝 예측 모델 구축
 
-🔗 [프로젝트 README 보기](https://github.com/narirla/mosi_project)
+**Tech Stack**
+
+`Python` `Scikit-learn` `Tableau`
+
+🔗 https://github.com/narirla/water_project
 
 ---
 
-## 📫 Contact
+## 🌏 MO:SI
 
-- GitHub: https://github.com/narirla  
-- Email: knri0320@gmail.com
+>개인 간 여행 상품 거래 플랫폼(Web Service)
+
+**Tech Stack**
+
+`Java` `Spring Boot` `Oracle` `HTML` `CSS` `JavaScript`
+
+🔗 https://github.com/narirla/mosi_project
+
+---
+
+# 🎯 Interests
+
+- 📊 Data Analysis
+- 📈 Data Visualization
+- 🌐 Web Development
+- ☕ Spring Boot
+- 💻 Backend Development
+
+---
+
+# 📫 Contact
+
+- GitHub : https://github.com/narirla
+- Email : knri0320@gmail.com
