@@ -6,10 +6,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data%20Analysis-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-E97627?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend-24292F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Web_Development-2563EB?style=for-the-badge" />
 </p>
 
 ---
@@ -18,8 +17,8 @@
 
 안녕하세요.
 
-데이터 분석을 통해 의미 있는 인사이트를 도출하고,
-웹 개발을 통해 이를 실제 서비스로 구현하는 개발자입니다.
+데이터 분석으로 문제를 이해하고,
+웹 개발로 서비스를 구현하는 개발자입니다.
 
 이 GitHub는 프로젝트의 **기획 → 개발 → 회고**까지의 과정을 기록하는 포트폴리오 공간입니다.
 
@@ -53,6 +52,7 @@
 ---
 
 # 📌 Featured Projects
+<br>
 
 ## 📊 청년 인구 유출 분석
 ### *Youth Population Migration Analysis*
@@ -65,7 +65,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau)
 
-📂 **Source Code**
+<br>
+📦 Repository
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/narirla/AC4D)
 
@@ -82,7 +83,8 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau)
 
-📂 **Source Code**
+<br>
+📦 Repository
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/narirla/water_project)
 
@@ -102,7 +104,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-📂 **Source Code**
+<br>
+📦 Repository
 
 [![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/narirla/mosi_project)
 
@@ -112,13 +115,13 @@
 
 - 📊 Data Analysis
 - 🤖 Machine Learning
-- 🌐 Web Development
-- ☕ Spring Boot
+- 📈 Data Visualization
 - 💻 Backend Development
+- 🌐 Web Development
 
 ---
 
 # 📫 Contact
 
-- GitHub : https://github.com/narirla
-- Email : knri0320@gmail.com
+- GitHub: [@narirla](https://github.com/narirla)
+- Email: <knri0320@gmail.com>
